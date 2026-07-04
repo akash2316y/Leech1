@@ -1,3 +1,4 @@
+# +++ Made By Obito [@i_killed_my_clan] +++
 #!/usr/bin/env python3
 from random import choice
 from time import time
